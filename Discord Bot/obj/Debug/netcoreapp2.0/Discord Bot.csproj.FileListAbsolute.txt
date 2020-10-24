@@ -1,0 +1,16 @@
+C:\Users\Jeremy\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.csprojAssemblyReference.cache
+C:\Users\Jeremy\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Jeremy\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.AssemblyInfo.cs
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.csprojAssemblyReference.cache
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.AssemblyInfo.cs
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Debug\netcoreapp2.0\Discord Bot.dll
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Debug\netcoreapp2.0\Discord Bot.pdb
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.csproj.CopyComplete
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.dll
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Debug\netcoreapp2.0\Discord Bot.pdb
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Debug\netcoreapp2.0\Discord Bot.deps.json
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Debug\netcoreapp2.0\Discord Bot.runtimeconfig.json
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Debug\netcoreapp2.0\Discord Bot.runtimeconfig.dev.json

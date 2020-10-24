@@ -1,0 +1,15 @@
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\hostpolicy.dll
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\hostfxr.dll
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\Discord Bot.exe
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\Discord Bot.deps.json
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\Discord Bot.runtimeconfig.json
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\Discord Bot.runtimeconfig.dev.json
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\Discord Bot.dll
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\bin\Release\netcoreapp2.0\win10-x86\Discord Bot.pdb
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.csprojAssemblyReference.cache
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.AssemblyInfo.cs
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.csproj.CopyComplete
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.dll
+C:\Users\Carter\Documents\lothos-bot\Discord Bot\obj\Release\netcoreapp2.0\win10-x86\Discord Bot.pdb

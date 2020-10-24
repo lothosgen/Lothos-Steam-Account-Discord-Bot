@@ -1,0 +1,14 @@
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\hostpolicy.dll
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\hostfxr.dll
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\Discord Bot.exe
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\Discord Bot.deps.json
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\Discord Bot.runtimeconfig.json
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\Discord Bot.runtimeconfig.dev.json
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\Discord Bot.dll
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\bin\Release\netcoreapp2.1\win10-x64\Discord Bot.pdb
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\obj\Release\netcoreapp2.1\win10-x64\Discord Bot.csprojAssemblyReference.cache
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\obj\Release\netcoreapp2.1\win10-x64\Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\obj\Release\netcoreapp2.1\win10-x64\Discord Bot.AssemblyInfoInputs.cache
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\obj\Release\netcoreapp2.1\win10-x64\Discord Bot.AssemblyInfo.cs
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\obj\Release\netcoreapp2.1\win10-x64\Discord Bot.dll
+C:\Users\Carter\Downloads\Discord_Bot\Discord Bot\Discord Bot\obj\Release\netcoreapp2.1\win10-x64\Discord Bot.pdb
